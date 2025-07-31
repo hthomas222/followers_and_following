@@ -1,0 +1,1 @@
+The following program allows the user to create a file for their followers and a file for their following. The script will then tell you which users are following you and which users you are following but not vice versa.
